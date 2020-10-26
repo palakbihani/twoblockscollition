@@ -1,2 +1,2 @@
-# visualstudiogame
-I make my first game on visual studio
+# p5.play-boilerplate
+Boiler plate for p5.play
